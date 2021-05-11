@@ -1,0 +1,4 @@
+The internet is the network connecting you to the web and the web is the pages you see when you're online.
+The internet works by moving data back and forth allowing things like browsing and sharing
+a directory is a catalogue for files and sometimes other directories. It stores files and things related to those files.
+A version control system allows multiple people to work on any file and later merge the changes together making it quicker and easier to create 1 project with multiple people working on it at once.
