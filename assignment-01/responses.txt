@@ -1,4 +1,4 @@
 The internet is the network connecting you to the web and the web is the pages you see when you're online. The internet connects people and the web connects information.
 The internet works by moving data in the form of packets back and forth through wires allowing things like browsing and sharing. It's a mesh format controlled by multiple independent distributors.
 a directory is a catalogue for files and other directories like subdirectories. It stores files and things related to those files. It stores these files in a parent/child format.
-A version control system allows multiple people to work on any file and later merge the changes together making it quicker and easier to create 1 project with multiple people working on it at once.
+A version control system allows multiple people to work on any file and later merge the changes together making it quicker and easier to create 1 project with multiple people working on it at once. It also allows trial and error by letting you revert back after making changes.
