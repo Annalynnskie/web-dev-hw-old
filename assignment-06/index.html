@@ -6,9 +6,45 @@
     <meta name="author" content="Anna Selinger">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Assignment 6</title>
+    <style>
+      table, td {border: 1px solid black}
+      </style>
   </head>
 
   <body>
     <h1>Barnes and Noble</h1>
+    <address>
+Barnes & Noble,<br>
+ Christiana Mall,<br>
+  Christiana, DE 19702<br>
+  (302)369-7050
+</address>
+<a href="mailto:service@bn.com">Customer Service Email</a>
+    <table>
+      <tr>
+        <td>Open Hours:</td>
+        <td>9Am-9Pm</td>
+        </tr>
+        <tr>
+          <td>Contact:</td>
+          <td>(302)369-7050</td>
+          </tr>
+    </table>
+    <br>
+    <form action="https://example.com/registration.php" method="post">
+      What is your first name?:
+      <input type="text" name="firstname" maxlength="8" size="10">
+      <br>
+      What is your date of birth?:
+      <input type="text" name="birthdate" maxlength="10" size="10">
+      <br><br>
+      Enter your comments:
+      <br>
+      <textarea cols="35" rows="10">
+        Type Here...
+      </textarea>
+      <br>
+      <input type="button" value="Submit!">
+    </form>
     </body>
 </html>
