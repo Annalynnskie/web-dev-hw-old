@@ -1,1 +1,3 @@
-assignment 6
+I've come across a lot of surveys and email subscription forms. These help the sites collect data of who visits and the emails for their mailing lists.
+Text inputs for things like first name or date of birth are used to get short answers or comments, information that has to be put in. Selection inputs are used to ask for specific type of information like what type listed something is such as gender or race. button inputs can be used for search bars and allows the site to help find information for the user.
+I didn't encounter any problems for this assignment. I added in the main elements and put in the table and forms first then I went back through and added in more information and refined or changed what I already had. I decided to try to do the image form of a button cause it seemed interesting and you see images used like that a lot.
