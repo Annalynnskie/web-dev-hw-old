@@ -1,1 +1,3 @@
-#assignment 5
+A page can only have one of each main document element. The head contains information about the page where the body contains information shown on the page. The title contains elements shown in the top of the browser.
+Structural markup are elements that describe headings and paragraphs where semantic markup gives extra information like emphasis, quotations, and the meaning of acronyms.
+For the assignment this week I structured the page out first with the docutype, html, head, and body and set up the headers and lists. After that I went back and added the information and text to the headers and lists as well as added the links and address. I learned a bit more about what kind of content goes into the head. I didn't have any problems with the assignment.
