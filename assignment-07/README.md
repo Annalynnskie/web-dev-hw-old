@@ -1,1 +1,3 @@
-assignment 7
+divs create divisions in the page and let you section out content. ids help to further identify the div and help the style work for the right div and only that div. classes help style over multiple divs. several spans can be used in a div and group content, they can be used to seperately style content inside a div.
+alt text is used to describe the image and is used for people who are visually impaired.
+For this assignment I set up the main and meta elements and then added the style element and the divs. After the divs were added I put in the headers and ids for them and added the content for each div. I didn't have any confusion or questions during this assignment.
