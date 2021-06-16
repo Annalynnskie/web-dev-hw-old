@@ -1,1 +1,2 @@
-assignment 8
+html itself was new to me so everything in the course has been new and interesting. I didn't find anything really difficult since instructions and walkthroughs were fairly straightforward. It was really intriguing to learn about how pages were structured and how the different elements effected what in a page.
+for learning css I'm interested in how the styling will differ from html and just how much you can style and how. I'm also interested in how it differs in how its written.
