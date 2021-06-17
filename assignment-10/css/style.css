@@ -1,0 +1,16 @@
+* {
+  font-family: 'Merriweather', serif;
+}
+body {
+  background-color: forestgreen;
+}
+p, a {
+  margin-bottom: 2em;
+  text-decoration: none;
+  color: inherit;
+}
+.colorbox {
+  background-color: #FFFFFF;
+  padding: 4em;
+  margin: 3em;
+}
