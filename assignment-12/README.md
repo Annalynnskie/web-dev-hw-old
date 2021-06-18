@@ -1,1 +1,3 @@
-assignment 12
+My imaginary client was a club owner who wanted a site to give information about their business and for people to give feedback.
+Display: block puts each element into a box with slight separation. Display: inline doesn't put the elements into boxes and lines them up horizontally. Display: inline-block does both what block and inline do combined.
+I first set up the main and meta elements and then the navigation bar with the dropdown menu. After that I styled the menu and added content and structure to the rest of the page. The dropdown bar was a little tricky but it was easy enough to follow along with the video.
