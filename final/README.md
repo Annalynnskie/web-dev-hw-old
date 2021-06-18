@@ -1,1 +1,3 @@
-final assignment
+I learned so much through this class. I entered not really knowing anything and now I can make a simple webpage. It was really interesting to see, learn and test out how certain things and elements affected others and structured the page. The styling was a little trickier than the basic html but it was fun to play around with it.
+I learned that a lot of media and especially fonts are hosted somewhere else rather than being hosted by the site.
+As usual I set up the main and meta elements and I grabbed the navigation setup from assignment 12. I changed a few things style wise and how some things were named before I added in my content and changed the fonts, colors and sizing of things. It was really neat being able to create a simple website and add what I wanted to it.
