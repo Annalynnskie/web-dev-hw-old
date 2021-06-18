@@ -1,0 +1,71 @@
+menu {
+  background-color: pink;
+  margin: 0;
+  padding: 0;
+}
+#site-links {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  font-family: 'Viaoda Libre', cursive;
+}
+#site-links .menu-items {
+  width: 6em;
+  padding: .5em 1em;
+  display: inline-block;
+  background-color: pink;
+  text-align: center;
+  color: #fff;
+}
+#site-links .menu-items:hover {
+  background-color: hotpink;
+  color: white;
+  text-decoration: underline overline;
+  text-decoration-color: forestgreen;
+  text-decoration-style: double;
+}
+#site-links .dropdown {
+  display:inline-block;
+  width: 6em;
+}
+#site-links .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: hotpink;
+  z-index: 5;
+}
+#site-links .dropdown-content a {
+  color: #fff;
+  font-family: ;
+}
+#site-links .dropdown-content a:hover {
+  color: hotpink;
+}
+#site-links .dropdown:hover .dropdown-content {
+  display: block;
+}
+#site-links .dropdown-items {
+  min-width: 6em;
+  padding: .5em 1em;
+  display: block;
+  text-align: center;
+}
+.dropdown-items:hover {
+  background-color: pink;
+}
+#social-links {
+  padding: .5em;
+  display: inline-block;
+  float: right;
+}
+#social-links .social-items {
+  margin: 0 5px;
+}
+#social-links img {
+  width: 20px;
+  height: 20px;
+  opacity: .5;
+}
+#social-links img:hover {
+  opacity: 1;
+}

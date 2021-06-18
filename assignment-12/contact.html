@@ -2,13 +2,73 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-    <meta name="description" content="This is assignment 12 contact">
+    <meta name="description" content="This is assignment 12 Contact">
     <meta name="author" content="Anna Selinger">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignment 12 Contact</title>
+    <title>Contact Bad Bunny</title>
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <link rel="stylesheet" type="text/css" href="./css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="./css/menu.css">
   </head>
 
   <body>
+    <div class="container">
+      <header>
+        <menu id="navigation">
+        <div id="site-links">
+          <a href="./index.html" class="menu-items">Home</a>
+          <a href="./services.html" class="menu-items">Services</a>
+          <div class="dropdown">
+          <a href="#" class="menu-items" id="dropdown-group">More...</a>
+          <div class="dropdown-content">
+          <a href="./about.html" class="dropdown-items">About</a>
+          <a href="./contact.html" class="dropdown-items">Contact</a>
+          <a href="#" class="dropdown-items">Sister Sites</a>
+            </div>
+          </div>
+        </div>
 
+        <div id="social-links">
+          <a href="https://www.facebook.com" class="social-items">
+            <img src="./images/facebook-logo.png" title="Find us on Facebook"/>
+          </a>
+          <a href="https://www.instagram.com" class="social-items">
+            <img src="./images/glyph-logo_May2016.png" title="Find us on Instagram"/>
+          </a>
+          <a href="https://twitter.com" class="social-items">
+            <img src="./images/twitter-logo-png-transparent.png" title="Find us on Twitter"/>
+          </a>
+        </div>
+      </menu>
+    </div>
+
+    <div class="main">
+      <a href="#" class="logo">
+        <img src="./images/Bad Bunny-logos_transparent.png" title="Bad Bunny"/>
+      </a>
+      <h1>Contact Bad Bunny!</h1>
+
+      <div id="forms" class="container">
+      <form action="https://example.com/registration.php" method="post">
+        What is your first name?:
+        <input type="text" name="firstname" maxlength="8" size="10">
+        <br><br>
+        What is your Gender?
+        <input type="radio" name="level" value="f" /> Female
+        <input type="radio" name="level" value="m" /> Male
+        <input type="radio" name="level" value="non" /> Don't want to say
+      <br />
+        <br><br>
+        How can we help you?:
+        <br>
+        <textarea cols="35" rows="10">
+          Type Here...
+        </textarea>
+        <br>
+        <input type="image" src="images/SubmitButton.png" alt="Submit Button Image" width="100" height="20">
+      </form>
+    </div>
+
+    </div>
     </body>
 </html>
