@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-size: 1.25em;
+  text-align: center;
+}
+.navigation {
+width: 100%;
+height: 50px;
+background-color: #000;
+position: fixed;
+top: 0;
+}
+.navigation a {
+  text-decoration: none;
+  color: #fff;
+}
+.main{
+background-color: #ffffff;
+margin-top: 50px;
+padding: 1em;
+overflow:auto;
+}
+.banner {
+  width: 100%;
+  height: auto;
+}
+.site-info {
+margin: 0;
+font-size: 100%;
+}
+.site-info a {
+  display: inline;
+}
+.site-links {
+margin: 0 15em;
+position: fixed;
+top: 1em;
+}
+.site-links a {
+  display: inline;
+  margin: 1em;
+}
+.site-links a:hover {
+  color: blue;
+}
+.logo {
+  background-color: #fff;
+  width: 50px;
+  height: 50px;
+  border: 5px solid #000;
+  border-radius: 100%;
+  margin-left: 2em;
+  line-height: 50px;
+  color: #000;
+  text-transform: uppercase;
+}
+.logo:hover {
+  border-color: #999;
+}
+.title {
+  margin-left: 7em;
+  position:fixed;
+  top:.5em;
+}
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  float: left;
+}
