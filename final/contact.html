@@ -2,13 +2,69 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-    <meta name="description" content="This is the final contact">
+    <meta name="description" content="This is the final Contact">
     <meta name="author" content="Anna Selinger">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Final Contact</title>
+    <title>Contact Me!</title>
     <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <link rel="stylesheet" type="text/css" href="./css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="./css/menu.css">
   </head>
 
   <body>
+    <div class="container">
+      <header>
+        <menu id="navigation">
+        <div id="site-links">
+          <a href="./index.html" class="menu-items">Home</a>
+          <a href="./about.html" class="menu-items">About</a>
+          <div class="dropdown">
+          <a href="#" class="menu-items" id="dropdown-group">More...</a>
+          <div class="dropdown-content">
+          <a href="./services.html" class="dropdown-items">My Work</a>
+          <a href="./contact.html" class="dropdown-items">Contact</a>
+            </div>
+          </div>
+        </div>
+
+        <div id="social-links">
+          <a href="https://www.instagram.com" class="social-items">
+            <img src="./images/glyph-logo_May2016.png" title="Find us on Instagram"/>
+          </a>
+          <a href="https://twitter.com" class="social-items">
+            <img src="./images/twitterlogo.png" title="Find us on Twitter"/>
+          </a>
+        </div>
+      </menu>
+    </div>
+
+    <div class="main">
+      <a href="#" class="logo">
+        <img src="./media/QueenTaker.gif" title="Queen Taker"/>
+      </a>
+      <h1>Contact Me!</h1>
+
+      <div id="forms" class="container">
+      <form action="https://example.com/registration.php" method="post">
+        What is your first name?:
+        <input type="text" name="firstname" maxlength="8" size="10">
+        <br><br>
+        Did you like my work?
+        <input type="radio" name="level" value="yes" /> Yes!
+        <input type="radio" name="level" value="def" /> Definitely!
+        <input type="radio" name="level" value="abs" /> Absolutely!
+      <br />
+        <br><br>
+        Your Thoughts:
+        <br>
+        <textarea cols="35" rows="10">
+          Type Here...
+        </textarea>
+        <br>
+        <input type="image" src="images/submitbutton.png" alt="Submit Button Image" width="100" height="100">
+      </form>
+    </div>
+
+    </div>
     </body>
 </html>
